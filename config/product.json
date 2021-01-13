@@ -1,0 +1,30 @@
+[
+    {
+        "pid": "1",
+        "name": "Zestaw przeciwtrądzikowy",
+        "price": "29,99",
+        "img": "https://www.avon.pl/mediaMarket-pl/8971/set1_unq_956698478b0b43758046ac7b38075b93.png",
+        "link": "/produkt/104791"
+    },
+    {
+        "pid": "2",
+        "name": "Zestaw oczyszczający do ciała",
+        "price": "29,99",
+        "img": "https://www.avon.pl/mediaMarket-pl/8972/set2_unq_c392afba4a7a49d7ab9e6d3089bf4618.png",
+        "link": "/produkt/104809"
+    },
+    {
+        "pid": "3",
+        "name": "Zestaw ANEW",
+        "price": "79,99",
+        "img": "https://www.avon.pl/mediaMarket-pl/8973/set3_unq_028a19cfbbfc4d1997faad6da37dc943.png",
+        "link": "/produkt/104782"
+    },
+    {
+        "pid": "4",
+        "name": "Zestaw \"Fundament pięknej skóry\"",
+        "price": "149,99",
+        "img": "https://www.avon.pl/mediaMarket-pl/8974/set4_unq_844b5ea22d354206b16f1b59e3f1b511.png",
+        "link": "/produkt/105109/zestaw-fundament-pieknej-skory"
+    }
+]
